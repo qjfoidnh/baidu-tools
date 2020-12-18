@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/qjfoidnh/BaiduPCS-Go/requester"
 	"github.com/json-iterator/go"
 	"net/http"
 	"net/url"
