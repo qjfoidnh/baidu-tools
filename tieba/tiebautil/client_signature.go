@@ -8,7 +8,6 @@ import (
 	"sort"
 	"strconv"
 	"strings"
-	"unsafe"
 )
 
 // TiebaClientSignature 根据给定贴吧客户端的post数据进行签名, 以通过百度服务器验证. 返回值为签名后的 post
